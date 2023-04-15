@@ -30,9 +30,16 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=black"/>
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"/>
+
 </div>
 
 ---
+
+<div align="center">
+  📕 edu 📕<br><br>
+  🚀 &emsp; <B>2023.03 ~ 2022.05</B>&emsp; KB국민은행 IT's Your Life 3기 진행 🚀<br>
+  🦁 &emsp; <B>2022.06 ~ 2022.11</B>&emsp; 멋쟁이사자처럼 백엔드스쿨 1기 수료 🦁<br>
+</div>
 
 ## 📌 dev - log
 
