@@ -1,22 +1,27 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3a4a51&height=80)
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=3a4a51&height=150&section=header&text=wooyup%20Lee&fontColor=496659&fontSize=40&desc=An%201st%20developer%20on%20campus&animation=twinkling&fontAlignY=40)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=3a4a51&height=150&section=header&text=wooyup%20Lee&fontColor=496659&fontSize=40&desc=The%201st%20developer%20on%20campus&animation=twinkling&fontAlignY=40)
 </div>
+
+💬I am...
+
+```
+  Name: wooyup Lee
+  From: Uiwang, Korea
+  Major: Software Engineering, graduate with honors in 2023
+```
 
 <div align="center">
   <B>🦁 Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> (✨ leewooyup ✨) profile</B>
   <br><br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewooyup&show_icons=true&theme=synthwave)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zjadlspun59)](https://solved.ac/zjadlspun59)<br/>
   
 </div>
 <br>
 
 ---
-
 <div align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
@@ -48,9 +53,6 @@
 <br>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=141)](https://shimmer59.tistory.com/141) 
 
-## 📌 BOJ Profile
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zjadlspun59)](https://solved.ac/zjadlspun59)<br/>
 <!--
 **leewooyup/leewooyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
