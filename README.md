@@ -25,14 +25,21 @@
 <div align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/> 
  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ <br>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
+ <img src="https://img.shields.io/badge/centos-262577?style=flat&logo=centos&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/>
  <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black"/>
  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=black"/>
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"/>
 
@@ -51,7 +58,11 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://shimmer59.tistory.com/)
 <br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=141)](https://shimmer59.tistory.com/141) 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=141)](https://shimmer59.tistory.com/141)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=119)](https://shimmer59.tistory.com/119)
+<br>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=159)](https://shimmer59.tistory.com/159)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=180)](https://shimmer59.tistory.com/180)
 
 <!--
 **leewooyup/leewooyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
