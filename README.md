@@ -58,11 +58,9 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://shimmer59.tistory.com/)
 <br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=141)](https://shimmer59.tistory.com/141)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=119)](https://shimmer59.tistory.com/119)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=141)](https://shimmer59.tistory.com/141) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=119)](https://shimmer59.tistory.com/119)
 <br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=159)](https://shimmer59.tistory.com/159)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=180)](https://shimmer59.tistory.com/180)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=159)](https://shimmer59.tistory.com/159) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shimmer59&postId=180)](https://shimmer59.tistory.com/180)
 
 <!--
 **leewooyup/leewooyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
