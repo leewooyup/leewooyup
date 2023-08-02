@@ -14,6 +14,8 @@
 <div align="center">
   <B>🦁 Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> (✨ leewooyup ✨) profile</B>
   <br><br><br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooyup)](https://github.com/leewooyup/github-readme-stats)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leewooyup&show_icons=true&theme=synthwave)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zjadlspun59)](https://solved.ac/zjadlspun59)<br/>
