@@ -15,7 +15,7 @@
   <B>🦁 Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> (✨ leewooyup ✨) profile</B>
   <br><br>
 
-  <picture><img src = "./about_me.gif" width = 200px></picture>
+  <picture><img src = "./about_me.gif" width = 50px></picture>
   <br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
