@@ -27,7 +27,7 @@
   </div><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooyup)](https://github.com/leewooyup/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewooyup)](https://github.com/leewooyup/github-readme-stats) -->
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leewooyup&theme=nord_bright)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leewooyup&theme=nord_bright)
