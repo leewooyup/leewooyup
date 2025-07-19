@@ -1,13 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=3a4a51&height=150&section=header&text=wooyup%20Lee&fontColor=496659&fontSize=40&desc=The%201st%20developer%20on%20campus&animation=twinkling&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=3a4a51&height=150&section=header&text=Lee%20wooyup&fontColor=496659&fontSize=40&desc=The%201st%20developer%20on%20campus&animation=twinkling&fontAlignY=40)
 </div>
 
 💬I am...
 
 ```
-  [Name]: wooyup Lee
-  [From]: Uiwang, Korea
+  [Name]: Lee wooyup
   [Major]: Software Engineering, graduate with honors in 2023
 ```
 
@@ -21,13 +20,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   <div align="center">
     🥇 Exp. 2 yrs🥇<br><br>
-    📺 &emsp; <B>2025.07 ~ </B>&emsp; 롯데 하이마트 주문/결제 파트 📺<br>
-    🛒 &emsp; <B>2024.02 ~ 2025.06</B>&emsp; 롯데쇼핑 롯데e커머스 사업부 하이마트팀 주문/결제 파트 🛒
+    📺 &emsp; <B>2025.07 ~ </B>&emsp; 롯데하이마트 PD팀 주문/결제 파트 📺<br>
+    🛒 &emsp; <B>2024.02 ~ 2025.06</B>&emsp; 롯데쇼핑 e커머스 사업부 하이마트팀 주문/결제 파트 🛒
     <br><br>
     📕 edu 📕<br><br>
+    🤝 &emsp; <B>2023.08 ~ 2024.01</B>&emsp; 롯데e커머스 채용연계형 교육 수료 (비트 2기) &emsp;🤝<br>
     💰 &emsp; <B>2023.03 ~ 2023.05</B>&emsp; KB국민은행 IT's Your Life 3기 최우수 수료생, 수료 &emsp;💰<br>
     🦁 &emsp; <B>2022.06 ~ 2022.11</B>&emsp; 멋쟁이사자처럼 백엔드스쿨 1기 수료 &emsp;🦁<br>
     ⚔️ &emsp; <B>2021.04 ~ 2021.11</B>&emsp; 한국장학재단 사회리더대학생 멘토링 12기(과학기술/IT/연구) 수료 &emsp;⚔️<br>
+    🎓 &emsp; <B>2019.03 ~ 2023.02</B>&emsp; 건국대학교 GLOCAL 소프트웨어전공 캠퍼스 수석 졸업 &emsp;🎓<br>
   </div><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
