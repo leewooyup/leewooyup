@@ -20,8 +20,12 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   <div align="center">
+    🥇 Exp. 2 yrs🥇<br><br>
+    📺 &emsp; <B>2025.07 ~ </B>&emsp; 롯데 하이마트 주문/결제 파트 📺<br>
+    🛒 &emsp; <B>2024.02 ~ 2025.06</B>&emsp; 롯데쇼핑 롯데e커머스 사업부 하이마트팀 주문/결제 파트 🛒
+    <br><br>
     📕 edu 📕<br><br>
-    🚀 &emsp; <B>2023.03 ~ 2023.05</B>&emsp; KB국민은행 IT's Your Life 3기 최우수 수료생, 수료 &emsp;🚀<br>
+    💰 &emsp; <B>2023.03 ~ 2023.05</B>&emsp; KB국민은행 IT's Your Life 3기 최우수 수료생, 수료 &emsp;💰<br>
     🦁 &emsp; <B>2022.06 ~ 2022.11</B>&emsp; 멋쟁이사자처럼 백엔드스쿨 1기 수료 &emsp;🦁<br>
     ⚔️ &emsp; <B>2021.04 ~ 2021.11</B>&emsp; 한국장학재단 사회리더대학생 멘토링 12기(과학기술/IT/연구) 수료 &emsp;⚔️<br>
   </div><br>
@@ -47,21 +51,22 @@
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>-->
   <br>
-  <img src="https://img.shields.io/badge/centos-262577?style=flat&logo=centos&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/centos-262577?style=flat&logo=centos&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"/>
-  <br>
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=black"/>-->
+  <!--<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"/>-->
+  <!--<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>-->
+  <!--<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>-->
 </div>
 
 <!--
